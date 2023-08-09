@@ -1,7 +1,5 @@
-#The AirBnB console emulation project kicks off now and runs until the culmination of the initial year The core objective of this endeavor is to deploy a streamlined replica of the AirBnB website onto your designated server.
+#The AirBnB console emulation project kicks off now and runs until the culmination of the initial year The core objective of this endeavour is to deploy a streamlined replica of the AirBnB website onto our console/linux.
 #Contents at a Glance :clipboard:
-#The AirBnB console emulation project kicks off now and runs until the culmination of the initial year. The core objective of this endeavor is to deploy a streamlined replica of the AirBnB website onto your designated server.
-Contents at a Glance :clipboard:
 
     Overview
     Installation Steps
