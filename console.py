@@ -1,16 +1,25 @@
 #!/usr/bin/python3
-""" Holberton AirBnB Console """
+""" The HBnB Console """
+#import the cmd module for command-line interpreter functionality
 import cmd
 import sys
 import json
 import os
+#Importing the storage module from the model package
 from models import storage
+#Importing the BaseModel class from the models.base_model module
 from models.base_model import BaseModel
+#Importing th user class from the models.user module
 from models.user import User
+#Importing the Place class from the models.place module
 from models.place import Place
+#Importing the State class from the models.state module
 from models.state import State
+#Importing the City class from the models.city module
 from models.city import City
+#Importing the Amenity class from the models.amenity module
 from models.amenity import Amenity
+#Importing the Review class from the models.review module
 from models.review import Review
 
 
